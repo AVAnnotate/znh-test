@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "f7f1f1a6-4137-49d0-a0ea-3ea02e092a87": {
+      "label": "video",
+      "file_url": "https://archive.org/download/cccomd-Tidbits_Black_History_Month_-_Zora_Neal_Hurston/Tidbits_Black_History_Month_-_Zora_Neal_Hurston.mp4"
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "more testing",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-09-06T18:15:49.495Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-06T18:15:49.495Z",
+  "updated_by": "absempere"
+}

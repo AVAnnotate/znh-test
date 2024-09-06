@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-09-06T18:15:50.109Z",
+  "created_by": "absempere",
+  "title": "more testing",
+  "updated_at": "2024-09-06T18:15:50.109Z",
+  "updated_by": "absempere",
+  "parent": "2e177e29-4076-482c-b79f-c7d8a917116f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d97c572e-c0a5-44e3-896a-10c395f24916"
+  }
+}
