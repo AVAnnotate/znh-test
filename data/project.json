@@ -1,21 +1,104 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AVAnnotate",
+    "title": "Testing Zora Neale Hurston",
+    "description": "Testing spreadsheet imports of the ZNH project",
+    "language": "en",
+    "slug": "znh-test",
+    "creator": "absempere",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Speaker",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Instruments",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Distortion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Singing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Games",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unknown",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Library of Congress",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Beatrice Lange",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Evelyn Werner",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rolla Southworth",
+          "category": "Speaker"
+        },
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Irene Jackson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Alabama Singleton",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Maggie Fulton",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2024-09-06T18:14:53.390Z",
+    "updated_at": "2024-09-06T18:14:53.390Z"
   }
 }
